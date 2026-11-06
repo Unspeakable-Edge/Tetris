@@ -1,3 +1,3 @@
-# Tetris
+# TETRIS
 
-El clásico juego de 1984
+El clásico de 1984
